@@ -87,7 +87,7 @@ class Dragon:
     def __repr__(self):
         return f"Dragon({self.height}, {self.danger}, {self.color})"
 
-# Пример использования
+# Пример:
 
 dr = Dragon(69, 5, "brown")
 dr1 = Dragon(69, 5, "gray")
